@@ -1,4 +1,4 @@
-#Simple Transformer Implementation
+# Simple Transformer Implementation
 
 This repository contains a basic implementation of the Transformer architecture, featuring a single encoder and a single decoder with single-head self-attention. This minimal setup is intended for educational purposes and to help users understand the core components of the Transformer model.
 
