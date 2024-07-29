@@ -11,3 +11,10 @@ The Transformer model, introduced in the seminal paper by Vaswani et al., revolu
 - **Single-Head Self-Attention**: Attends to different positions within the sequence.
 
 
+## References
+
+1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+2. [Attention is All You Need (Paper)](https://arxiv.org/abs/1706.03762)
+3. [YouTube Video on Transformers](https://youtu.be/ISNdQcPhsts?si=C1Xj60YPvXhCf-5R)
+
+
