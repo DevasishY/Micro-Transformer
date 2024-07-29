@@ -11,8 +11,8 @@ The Transformer model, introduced in the seminal paper by Vaswani et al., revolu
 - **Single-Head Self-Attention**: Attends to different positions within the sequence.
 
 ## Notes:
-Here provided a basic forward pass, using random numbers as word ID's, please check it out in Data.py 
-Training will be a future work, but Data.py makes one understand better about  trasnformer working.
+- Here provided a basic forward pass, using random numbers as word ID's, please check it out in Data.py 
+- Training will be a future work, but Data.py makes one understand better about  trasnformer working.
 
 
 ## References
